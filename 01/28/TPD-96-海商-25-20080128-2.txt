@@ -1,0 +1,329 @@
+【裁判字號】    96,海商,25
+【裁判日期】    970128
+【裁判案由】    損害賠償
+【裁判全文】
+臺灣臺北地方法院民事判決              96年度海商字第25號
+原      告  美齊科技股份有限公司
+法定代理人  甲○○
+訴訟代理人  林昇格律師
+複  代理人  李志成律師
+被      告  高昌國際集運有限公司
+法定代理人  乙○○
+訴訟代理人  馬潤明律師
+上列當事人間請求損害賠償事件，本院於民國97年1 月14日言詞
+辯論終結，判決如下：
+    主      文
+被告應給付原告新臺幣陸佰柒拾肆萬參仟捌佰參拾伍元，及自民
+國九十六年八月二十四日起至清償日止，按年息百分之五計算之
+利息。
+訴訟費用新臺幣陸萬柒仟捌佰貳拾伍元由被告負擔。
+本判決於原告以新臺幣貳佰貳拾伍萬元供擔保後，得假執行。但
+被告如以新臺幣陸佰柒拾肆萬參仟捌佰參拾伍元預供擔保，得免
+為假執行。
+    事實及理由
+一原告主張：伊委託被告以海運運送貨物一批，被告於貨物運抵
+  目的地後未收回載貨證券正本，卻讓無受領權之受貨人即訴外
+  人Universal Media Corporation（下稱UMC公司）提領貨物，
+  致伊受有損害，爰依債務不履行及侵權行為法律關係，請求被
+  告賠償等語。經查：系爭貨物係自基隆港運至斯洛伐克，有載
+  貨證券在卷可稽（見本院卷第10頁），此契約顯具有涉外因素
+  ，兩造針對系爭契約之效力並未約定準據法，惟兩造國籍相同
+  ，依涉外民事法律適用法第6條第2項規定，此運送契約之成立
+  要件及效力，應依我國法定之，合先說明。
+二原告起訴主張：
+  (一)伊於民國96年2月間出售電腦面板零件一批予UMC公司，價金
+    計美金202,688 元，伊委由被告將前開貨物由基隆運至斯洛
+    伐克，詎前開貨物運抵目的地後，被告竟將該批貨物交予未
+    出具載貨證券正本之UMC公司，致伊受有損害。
+  (二)被告受伊委託運貨，本應依約將貨物交付予有受領權之人，
+    即合法受讓載貨證券之人，詎伊擅將貨物交予未持有載貨證
+    券正本之UMC 公司，顯已違約，就伊所受損害，被告應負債
+    務不履行損害賠償之責。又被告為運送人，明知UMC 公司須
+    出具載貨證券正本方能提領貨物，詎其無單放貨，侵害伊對
+    該貨物之所有權，亦應依民法第184條第1項前段、第188 條
+    規定負侵權行為損害賠償之責。
+  (三)系爭貨物為面板及電腦零件，因斯洛伐克為電子零件之進口
+    國，該國進口廠商皆以貨物零件組裝成品為實際銷售標的，
+    並無單純針對面板及電腦零件之交易市場，故系爭貨物之買
+    賣價金美金202,688元，僅為UMC公司之進貨成本，尚非斯洛
+    伐克當地對系爭面板及電腦零件包含關稅、內陸運費及正常
+    利潤價值之市價，伊以買賣價金為計算損害之標準，自屬有
+    據。又美金兌換台幣之匯率於起訴當日為1：33.272 ，基此
+    計算，被告應賠償之數額為新臺幣6,743,835元。
+  (四)聲明為：
+    1.被告應給付原告新臺幣6,743,835 元，及自起訴狀繕本送
+      達翌日起至清償日止，按年息5%計算之利息。
+    2.願供擔保請准宣告假執行。
+三被告則抗辯：
+  (一)伊多次為原告運送貨物交予UMC 公司，而運送人於運送契約
+    最主要之義務，乃在於將貨物完整運交予「真正買受人」，
+    以確保賣方交貨義務之履行。系爭貨物之運送係採DDU（
+    Delivery Duty Unpaid），亦即貨物送須運抵買方之處為止
+    。系爭貨物於運抵斯洛伐克並辦理清關後，即交由當地之貨
+    運承攬業者Slovfracht Slovakia A.S.公司（下稱SSAS公司
+    ）接續運至買受人UMC 公司之倉庫。伊將貨物交給真正之買
+    受人UMC 公司，實已履行依運送契約所負之義務，無債務不
+    履行可言。至於賣方與買方間因貨物或貨款之糾紛，應在買
+    賣雙方間解決，實不能將貨款之紛爭轉嫁予只單純負賣運送
+    貨物，且已完成運送責任之運送人。
+  (二)SSAS公司係在銀行出具Bank guarantee letter 之情形下，
+    雖無載貨證券正本，仍循往例將貨交予UMC 公司。伊為慎重
+    起見，曾以電子郵件及電話多次告知SSAS公司，不得於未收
+    到載貨證券正本即將貨物交予UMC 公司，詎SSAS公司不理會
+    伊之指示，伊就本件實已盡注意義務。
+  (三)系爭載貨證券背面約款第26條約定：運送人不就其所選任代
+    理人之責任對託運人負責，故伊無須就SSAS公司之過失行為
+    對原告負責，此乃民法第224 條之例外規定。又依系爭載貨
+    證券正面註記及背面約款第22條約款，伊不承擔超過美金
+    500 元之損失。基此，縱伊應就次運送人SSAS公司之過失負
+    責，應負之賠償責任應不超過美金500 元。再者，縱伊不得
+    主張責任限制，依民法第638條第1項規定，原告應證明貨物
+    在交付時目的地之價值為何，不得僅以商業發票所載之金額
+    認定伊應賠償之範圍。
+  (四)聲明為：
+    1.原告之訴駁回。
+    2.如受不利判決，願供擔保請准宣告免為假執行。
+四兩造不爭執之事實：
+  (一)原告於96年2月間出售貨物予UMC公司，價金合計為美金202,
+    688元。
+  (二)原告將售予UMC公司之前開貨物交予被告運送，被告於96年2
+    月8日簽發載貨證券正本3份交予原告收執。
+  (三)系爭貨物運抵斯洛伐克後，由斯洛伐克籍SSAS公司受被告委
+    任處理交貨事宜，SSAS公司在UMC 公司未出具系爭載貨證券
+    正本之情況下讓UMC公司領取貨物，原告迄未取得UMC公司支
+    付之貨款。
+  (四)系爭載貨證券正本計3 張現仍為原告持有。
+五兩造爭執要旨：
+  (一)被告是否得依系爭載貨證券背面約款第26條之約定，主張對
+    SSAS公司無單放貨之舉，不負債務不履行損害賠償之責？
+  (二)就UMC 公司未出具系爭載貨證券正本即領走系爭貨物一事，
+    被告應否對原告負侵權行為損害賠償之責？
+  (三)如被告應對原告負損害賠償之責，賠償數額若干？
+六本院之判斷：
+  (一)被告對SSAS公司無單放貨之舉，應負債務不履行損害賠償之
+    責：
+    1.按載貨證券具有換取或繳還證券之性質，運送貨物，經發
+      給載貨證券者，貨物之交付，應憑載貨證券為之，即使為
+      運送契約所載之受貨人，苟不將載貨證券提出及交還，依
+      海商法第104條準用民法第630條規定，仍不得請求交付運
+      送物，不因載貨證券尚在託運人持有中而有所不同。故運
+      送契約所載之受貨人不憑載貨證券請求交付運送物，運送
+      人不拒絕而交付，如因而致託運人受有損害，自應負損害
+      賠償責任（最高法院86年度台上字第2509號判例參照）。
+    2.被告為本件海上運送契約之運送人，並簽發系爭載貨證券
+      （見本院卷第10頁），對於載貨證券為繳回證券之性質，
+      自不得諉為不知，其於載貨證券所載受貨人UMC 公司未提
+      出、交還載貨證券正本之情況下，貿然讓該公司提領貨物
+      ，其無單放貨之舉措，致原告喪失對系爭貨物之占有。而
+      原告係為履行其與UMC 公司就系爭貨物成立之買賣契約，
+      方將系爭貨物運至斯洛伐克交貨，如UMC 公司依約付清貨
+      款，原告自應將系爭載貨證券正本轉讓予該公司，俾該公
+      司能順利提領貨物；如UMC 公司未依約給付價金，因原告
+      仍持有系爭載貨證券正本，即得將系爭貨物運回或轉售他
+      人，不至於在UMC 公司未付貨款情況下，平白損失貨物。
+      足見係因被告無單放貨，致原告無法保留系爭貨物俾要求
+      UMC司同時給付貨款，其因此所受損害係因被告任令UMC公
+      司無單領貨造成，依海商法第5條、民法第634條規定，被
+      告自應對原告負損害賠償之責。被告辯稱其於收受銀行出
+      具之擔保書後將系爭貨物交予買受人UMC 公司，即已善盡
+      運送契約之交貨義務云云，顯然無視其負有將運送貨物交
+      付予出具載貨證券正本者之責任，所辯自非有據，無足憑
+      採。
+    3.又按運送人對於運送物之喪失、毀損或遲到，應負責任，
+      民法第634 條前段定有明文，依此規定，運送人應負通常
+      事變責任，其僅能在運送物之喪失、毀損或遲到，係因不
+      可抗力、或因運送物之性質、或因託運人或受貨人之過失
+      而致時，方能免責（民法第634 條但書參照）。依被告提
+      出之電子郵件（見本院卷第45頁），其雖於SSAS公司交付
+      系爭貨物予UMC 公司前，即指示該公司須收回載貨證券正
+      本方得放貨，然SSAS公司仍將貨物交付予未出具載貨證券
+      正本之UMC 公司，由是可知原告喪失對系爭貨物之占有，
+      係因SSAS公司未遵被告指示無單放貨所致。然SSAS公司為
+      為被告履行運送契約中交貨義務之人，為被告之履行輔助
+      人，依民法第224 條規定，SSAS公司於交貨時之過失，應
+      由被告與自己之過失負同一責任。SSAS公司無單放貨之舉
+      ，既非屬不可抗力，亦非因系爭貨物之性質或原告、 UMC
+      公司之過失所致，依前開法條規定，被告仍不得解免賠償
+      責任。
+  (二)被告不得依系爭載貨證券背面約款第26條、第15條之約定，
+    主張對SSAS公司無單放貨之舉，不負債務不履行損害賠償之
+    責：
+    被告復辯稱：依系爭載貨證券背面約款第26條、第15條之約
+    定，其對SSAS公司無單放貨之舉，不負債務不履行損害賠償
+    之責云云，經查：
+    1.按系爭載貨證券背面約款第26條係約定：「Thecarrier
+      shall be entitled to sub-contract on any terms the
+      whole or any part of the handling, storage or
+      carriage of the goods and any and all duties
+      whatsoever undertaken by the carrier in ralation
+      to the goods. The shipper shall indemnify the
+      carrier against any claims which may be made upon
+      the carrier by any servant, agent or sub-
+      contractor of the carrier in relation to the claim
+      against any such person made by the shipper.
+      Without prejudice to the forgoing, every such
+      servant, agent and sub-contractor shall have the
+      benefit of all provisions herein for the benefit
+      of the carrier as if such provisions were
+      expressly for their benefit, and in entering into
+      this contract the carrier, to the extent of those
+      provisions, does so not only on his behalf but
+      also as agent and trustee for such servants,agents
+      and sub-contractors.」（見本院卷第47頁背面），意指
+      運送人有權以任何條件將全部或任何一部份處理、堆存、
+      運送，及任何由運送人對貨物所承擔之義務，轉包予他人
+      。當次運送人、代理人或履行輔助人以託運人向彼等求償
+      之主張，向運送人為請求時，託運人應對運送人為賠償。
+      又運送人之履行輔助人等，對於運送人依此載貨證券得主
+      張之責任限制、免責等有利約款，亦得主張之。此約款並
+      未言及運送人無庸就其所選任之履行輔助人，於履行運送
+      契約時之故意或過失負責，被告辯稱依此約定其無須就
+      SSAS公司無單放貨之舉負責云云，顯然曲解前開約款之義
+      ，要非可採。
+    2.至系爭載貨證券背面約款第15條則約定：「Whether the
+      carrier or master may deem it advisable, or in any
+      case where the goods are destined for ports or
+      places at which the ship does not call and
+      particularly but not exclusively where the port of
+      discharge from ship and destination of the goods
+      named are not the same, the carrier, may, without
+      notice, but at its own expenses forward the whole
+      or any part of the goods before or after loading
+      at the original port of shipment, or any other
+      place or places even though outside the scope of
+      the voyage or the route to or beyond the port of
+      discharge or the destination of the goods by
+      water, by land or by air, or by any combination
+      thereof, whether operated by the carrier or by
+      others and whether departing or arriving or
+      scheduled to depart or to arrive before or after
+      the ship expected to be used for the transportaion
+      of the goods. The carrier may delay forwarding
+      awaiting a vessel or conveyance in its own service
+      or with which it has established connections. In
+      all cases where the goods are delivered to another
+      carrier, or to a lighter owner, warehouseman or
+      other baliee for the purpose of transshipment, the
+      liability of this carrier shall absolutely cease
+      when the goods are free of the ship's tackle and
+      the responsibility of this carrier thereafter
+      shall be that of a forwarding agent of the shipper
+      and this carrier shall be without any other
+      responsibility whatsoever, and the goods shall
+      thereafter be at the risk of all purposes and in
+      every respect of the shipper, consignee, and/or
+      the on-carrier, and subject to all conditions and
+      exception in the bill of lading, receipt of other
+      agreement under which the goods are forwarded.」（
+      見本院卷第84頁），係針對轉運所設規範，約定如運送人
+      將貨物移交給另一運送人時，其運送人責任即告終了。依
+      此約定，當被告將貨物轉交予SSAS公司運送時，其即可不
+      負運送人之責。然海商法第61條明定：「以件貨運送為目
+      的之運送契約或載貨證券記載條款、條件或約定，以減輕
+      或免除運送人或船舶所有人，對於因過失或本章規定應履
+      行之義務而不履行，致有貨物毀損、滅失或遲到之責任者
+      ，其條款、條件或約定不生效力」，依前開載貨證券條款
+      ，被告將貨物交予SSAS公司轉運後，對SSAS公司無單放貨
+      之行為即無庸負責，不啻免除被告承運系爭貨物，應憑載
+      貨證券正本交付貨物之義務，且免除被告於無單放貨時，
+      對原告因喪失系爭貨物之占有所受損害之賠償責任，依前
+      開法條所定，此條款自不生效力，被告執此主張其無須對
+      原告負債務不履行損害賠償之責，即乏依據，亦不足採。
+  (三)被告應賠償原告新臺幣6,743,835元：
+    1.按運送物有喪失、毀損或遲到者，其損害賠償額應依其應
+      交付時目的地之價值計算之，民法第638條第1項規定甚明
+      。所謂運送物之喪失，應與給付不能之概念作同一解釋，
+      即社會通念上不能強制運送物交付實現者，即為已足，因
+      此包括物質上之滅失、被盜或遺失、無法依法律規定回復
+      之情形均屬之。系爭貨物業因交付予無受領權之UMC 公司
+      ，而不能回復占有以交付予持有載貨證券正本之原告，此
+      為兩造所不爭，應認運送物業已喪失，前開法條之規定，
+      於本件自有適用餘地。原告主張系爭貨物非於海上運送期
+      間喪失，故前開法條與本件並不適用云云，難認有理。
+    2.原告主張：系爭貨物為面板及電腦零件，因斯洛伐克為電
+      子零件之進口國，該國進口廠商皆以貨物零件組裝成品為
+      實際銷售標的，並無單純針對面板及電腦零件之交易市場
+      等語（見本院卷第64頁），未見被告爭執，堪信屬實，是
+      以尚難認定系爭貨物於應交付時在目的地（即斯洛伐克）
+      之市價。而被告主張原告與UMC公司間的買賣條件為DDU（
+      Delivery Duty Unpaid，除進口稅外，賣方須負擔自起運
+      地到達賣方指定地點所有的運費及保險費），亦為原告所
+      不爭。以一般買低賣高之經驗法則觀之，貨物在目的地之
+      價格應高於出口地加上運費、保險費之價格；另依國際貿
+      易慣例，貨物於目的地完好市價至少應包括成本、保險費
+      、運費、關稅、管銷費用、合理利潤等項目。經審酌一切
+      情況，本院認系爭貨物於應交付時目的地之價值，應高於
+      原告將系爭貨物出賣予UMC 公司之售價，則原告以此售價
+      作為請求賠償之金額，於法並無不合。原告係以美金202,
+      688 元出售系爭貨物，有發票在卷可稽（見本院卷第11頁
+      ），而於原告起訴之日（即96年8月16日），1美金可兌換
+      33.272元新臺幣，有臺灣銀行牌告匯率足憑（見本院卷第
+      14頁），基此計算，原告得請求賠償之金額為新臺幣
+      6,743,835元。
+    3.被告另辯稱：依系爭載貨證券正面註記及背面約款第22條
+      約定，其應負之賠償金額，應以美金500 元為上限云云。
+      然查：
+      按行獨任審判之法官為闡明訴訟關係，得整理並協議簡
+        化爭點；整理並協議簡化爭點之事項及結果，應記載於
+        筆錄，當事人就其主張之爭點，經為前開協議者，應受
+        其拘束，但經兩造同意變更，或因不可歸責於當事人之
+        事由或依其他情形協議顯失公平者，不在此限。民事訴
+        訟法第271條之1準用同法第270條之1第1項第3款、第3
+        項、第271條第3款分別定有明文。本院於96年12月11日
+        依前開規定整理本件爭點如兩造爭執要旨欄所載，經兩
+        造同意後記明於當日言詞辯論筆錄（見本院卷第 56-57
+        頁），被告並當場表明對於責任限制之抗辯不再主張，
+        是兩造均應受前開整理爭點結果之拘束。被告於97年1
+        月8 日提出言詞辯論意旨狀，追復主張其得依系爭載貨
+        證券正面註記及背面約款第22條之約定，主張責任限制
+        云云，顯係無正當理由逾越上開爭點範圍另作爭執，本
+        院對此本無庸審酌。
+      再者，系爭載貨證券背面約款第22條第2項係約定：「
+        Asfar as the loss of or damage to or in
+        connection with the goods occurred during the
+        part of carriage to which the United States
+        Cariiage of Goods by Sea Act shall apply.(a) the
+        carrier shall not be liable for loss or damage
+        in an amount exceeding $500.00 lawful currency
+        of the United States, per package or per
+        customary freight unit, as the case may be,
+        unless the value of the goods, higher than this
+        amount has been declared in writing by the
+        shipper before receipt of the goods and inserted
+        in th bill of lading together with nature
+        thereof and extra freight has been paid as
+        required. 」（見本院卷第47頁背面），意指當貨物之
+        滅失或毀損係在運送期間發生，應適用美國海上貨物運
+        送法之規定，除非託運人於交付貨物前即以書面報明貨
+        物價值，並記載於載貨證券上，運送人對每件貨物或運
+        費單位之賠償金額，不得超過美金500 元。被告未解上
+        開約款真正文義，自其中擷取「the carriershall not
+        be liable for loss or damage in an amount
+        exceeding $500.00 lawful currency of the United
+        States」之文句，率爾主張其承擔之損失金額不超過美
+        金500 元云云，已屬無據。況前開約定亦減輕被告因系
+        爭貨物喪失所生之賠償責任，依海商法第61條規定，此
+        約款應屬無效，被告前揭辯詞即乏依據，自不待言。
+  (四)原告係以相競合之債務不履行損害賠償請求權及侵權行為損
+    害賠償請求權為據，請求被告賠償損害，本院已認定被告應
+    對原告負債務不履行損害賠償之責，則就被告是否應對原告
+    負侵權行為損害賠償之責部分，即無庸審究，併予敘明。
+  (五)綜上所述，被告無單放貨致原告喪失對系爭貨物之占有，並
+    因迄未收回貨款而受有損害，則原告依海商法第5 條、民法
+    第634條、638條第1項等規定，請求被告給付新臺幣 6,734,
+    835元，及自起訴狀繕本送達翌日即96年8月24日起至清償日
+    止，按年息5%計算之法定遲延利息，為有理由，應予准許。
+  (六)兩造各陳明願供擔保，請准宣告假執行及免為假執行，經核
+    於法均無不合，爰各酌定相當擔保金額，併予准許之。
+  (七)本件事證已明，兩造其餘主張及舉證，核與判決結果無影響
+    ，於茲不贅。
+七訴訟費用負擔之依據：民事訴訟法第78條。
+中    華    民    國    97    年    1     月    28    日
+                  民事第六庭    法  官  陳婷玉
+以上正本係照原本作成
+如對本判決上訴，須於判決送達後20日內向本院提出上訴狀
+中    華    民    國    97    年    1     月    28    日
+                                書記官  詹雪娥
+
+
+司法院資訊處製作；財團法人民間司法改革基金會備份。
